@@ -23,7 +23,7 @@ This repository contains a C++ implementation of a self-driving car system utili
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/cse-kiet/PCSE24-18.git
 ```
 
 2. Install OpenCV, Raspicam, and WiringPi libraries according to their respective documentation.
