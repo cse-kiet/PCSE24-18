@@ -12,6 +12,28 @@ This repository contains a C++ implementation of a self-driving car system utili
 - Automatic driving decisions based on detected objects and lane markings
 - IoT integration for controlling external devices (e.g., motors, lights)
 
+
+## DEMO 
+1.Stop sign detection 
+
+https://github.com/cse-kiet/PCSE24-18/assets/134859629/fe47aab4-ea44-42f6-8335-eaa6edd81900
+
+2.Lane detection
+
+
+https://github.com/cse-kiet/PCSE24-18/assets/134859629/a62260aa-0415-4c16-85dd-aab337d98239
+
+3.Obstacle detection
+
+https://github.com/cse-kiet/PCSE24-18/assets/134859629/406cc8a2-e782-48bc-8316-96c50da69180
+
+
+
+
+
+
+  
+
 ## Requirements
 
 - OpenCV 2.4.13 or later
